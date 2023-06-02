@@ -1,0 +1,23 @@
+{
+  "name": "tra-ser-scrapping",
+  "version": "1.0.0",
+  "description": "Uploading COINS database to TradeService",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdshupe/tra-ser-scrapping.git"
+  },
+  "keywords": [
+    "node",
+    "scrapping"
+  ],
+  "author": "John Shupe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdshupe/tra-ser-scrapping/issues"
+  },
+  "homepage": "https://github.com/jdshupe/tra-ser-scrapping#readme"
+}
